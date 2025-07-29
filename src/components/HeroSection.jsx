@@ -12,7 +12,7 @@ const HeroSection = () => {
               Megha Yewalekar
             </h1>
             <p className="text-xl font-semibold text-[#606060] mb-4">
-              Frontend Developer. UI Designer
+              Frontend Developer
             </p>
             <p className="text-secondary mb-6 text-justify">
               I believe great things can be achieved through the use of
