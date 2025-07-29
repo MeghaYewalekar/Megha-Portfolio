@@ -1,0 +1,31 @@
+[
+  
+  {
+    "name": "greenmart.to",
+    "category": "uiUX",
+    "description": "A modern e-commerce shopping app with a user-friendly UI for browsing and purchasing grocery items..",
+    "site": "https://greenmart-ui.netlify.app/",
+    "github": "https://github.com/MeghaYewalekar/GreenMart_Shopping_App",
+    "image": "greenmart.png",
+    "alt": "greenmart"
+  },
+  {
+    "name": " Weather_Forecast.to",
+    "category": "uiUX",
+    "description": " A responsive weather forecasting app that displays real-time weather data for any location.",
+    "site": "https://megha-weather-app.netlify.app/",
+    "github": "https://github.com/MeghaYewalekar/Weather_app",
+    "image": "WF.png",
+    "alt": "Weather_Forecast"
+  },
+  {
+    "name": " RockPaperScissorsGame.to",
+    "category": "uiUX",
+    "description": "An interactive Rock-Paper-Scissors game built with engaging UI and logic for fun user play.",
+    "site": "https://megha-papercuts-game.netlify.app/",
+    "github": "https://github.com/MeghaYewalekar/RockPaperScissorsGame",
+    "image": "PRC.png",
+    "alt": "RockPaperScissorsGame"
+  }
+  
+]
