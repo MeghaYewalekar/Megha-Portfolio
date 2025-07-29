@@ -25,7 +25,7 @@ const About = () => {
             <div className="text-[#333333]">
               <p className="mb-4 text-justify">
                 Hi, I'm <strong>Megha Yewalekar</strong>, a passionate{" "}
-                <strong>Frontend Stack Developer</strong> with expertise in{" "}
+                <strong>Frontend Developer</strong> with expertise in{" "}
                 <strong>React</strong>, <strong>TailwindCSS</strong>,{" "}
                 <strong>Node.js</strong>, and <strong>Express.js</strong>. From
                 creating my first GreenMart to developing full-stack web
@@ -33,27 +33,27 @@ const About = () => {
                 technology to create impactful solutions.
               </p>
               <p className="mb-4 text-justify">
-                My journey in software development began with HTML and CSS, but
+                My journey began with HTML and CSS, but
                 it was when I learned JavaScript and the power of{" "}
                 <strong>React</strong> that my passion for web development truly
                 ignited. I specialize in building scalable and performant web
                 applications with a strong focus on user experience and clean,
                 maintainable code.
               </p>
-              <p className="mb-4 text-justify">
+              {/* <p className="mb-4 text-justify">
                 Currently, I am working as a part of a collaborative team on
                 various projects, including an{" "}
                 <strong>e-commerce platform</strong> built using the MERN stack.
                 I enjoy contributing to open-source projects and always seek
                 opportunities to learn and grow as a developer.
-              </p>
-              <p className="text-justify ">
+              </p> */}
+              {/* <p className="text-justify ">
                 When I'm not developing web applications, you’ll find me
                 fine-tuning my motorcycle, exploring off-road trails, or
                 organizing spaces to create a productive environment. I also
                 enjoy occasional chess games with good company and dabble in SEO
                 and UI/UX research to stay informed on modern digital trends.
-              </p>
+              </p> */}
             </div>
           </div>
         </div>
