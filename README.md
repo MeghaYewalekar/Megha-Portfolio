@@ -1,16 +1,16 @@
-# 🚀 Saam Sheron Portfolio
+# 🚀 Megha Yewaleka Portfolio
 
-Welcome to my portfolio repository! This project showcases my work as a **MERN Stack Developer** and highlights my projects, skills, and professional achievements.
+Welcome to my portfolio repository! This project showcases my work as a **Frontend Developer** and highlights my projects, skills, and professional achievements.
 
 ## 🖥️ Live Portfolio  
-Check out the live version here: [**Saam Sheron Portfolio**](https://saam-sheron.vercel.app/)
+Check out the live version here:[**Megha Yewalekar Portfolio**](https://Megha-Yewalekar.vercel.app/)
 
 ---
 
 ## 📋 About the Portfolio
 This is a **single-page portfolio** website built using modern web technologies. It highlights:  
 - **Projects**: Frontend, backend, and full-stack applications.  
-- **Skills**: Proficiency in **React**, **Node.js**, **MongoDB**, and more.  
+- **Skills**: Proficiency in **React**, **TailwindCSS**, **Node.js**, and more.  
 - **Resume**: Downloadable resume for recruiters and collaborators.  
 - **Contact Form**: Integrated with **Email.js** for seamless communication.  
 - **Social Links**: Connect with me on GitHub, LinkedIn, and Instagram.
@@ -56,7 +56,7 @@ public/
 
 ---
 
-## 🎯 SEO & Accessibility
+<!-- ## 🎯 SEO & Accessibility
 - **Meta Tags**: Optimized title, description, and Open Graph tags for better ranking.  
 - **JSON-LD Schema**: Structured data for search engines.  
 - **Descriptive Alt Attributes**: Added for all images, such as:  
@@ -65,25 +65,25 @@ public/
   ```
 - **Fast Performance**: Optimized build with Vite for better Lighthouse scores.  
 
----
+--- -->
 
 ## 📧 Contact Me
 Feel free to reach out:  
-- **Portfolio**: [saam-sheron.vercel.app](https://saam-sheron.vercel.app/)  
-- **Email**: saamsallvin@gmail.com  
-- **LinkedIn**: [linkedin.com/in/saam-sheron](https://linkedin.com/in/saam-sheron)  
-- **GitHub**: [github.com/saam-rgb](https://github.com/saam-rgb)  
+- **Portfolio**: [Megha-Yewalekar.vercel.app](https://Megha-Yewalekar.vercel.app/)  
+- **Email**: meghhaayeewwalkar@gmail.com  
+- **LinkedIn**: [linkedin.com/in/megha-yewalekar](https://www.linkedin.com/in/megha-yewalekar-265b34244/)  
+- **GitHub**: [github.com/MeghaYewalekar](https://github.com/MeghaYewalekar)  
 
 ---
 
 ## 🚀 How to Run Locally
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/saam-rgb/saam-sheron.git
+   git clone https://github.com/MeghaYewalekar/Megha-Portfolio.git
    ```
 2. Navigate to the project folder:  
    ```bash
-   cd saam-sheron
+   cd Megha-Portfolio
    ```
 3. Install dependencies:  
    ```bash
@@ -98,11 +98,4 @@ Feel free to reach out:
    http://localhost:5173
    ```
 
----
 
-## 📝 License
-This project is **open-source** and available under the MIT License.
-
----
-
-### 🎨 Designed & Developed by [**Saam Sheron**](https://linkedin.com/in/saam-sheron)  

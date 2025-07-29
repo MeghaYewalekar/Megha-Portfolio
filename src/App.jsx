@@ -1,4 +1,3 @@
-import "./App.css";
 import About from "./components/About";
 import Contact from "./components/Contact.jsx";
 import Footer from "./components/Footer.jsx";
@@ -10,7 +9,7 @@ import Skill from "./components/Skill.jsx";
 
 function App() {
   return (
-    <>
+    <div>
       <Navbar />
       <HeroSection />
       <About />
@@ -19,7 +18,7 @@ function App() {
       <Resume />
       <Contact />
       <Footer />
-    </>
+    </div>
   );
 }
 
